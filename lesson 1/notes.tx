@@ -1,0 +1,17 @@
+HTTP: HyperText Transfer Protocol
+      (Protocolo de transferencia de hipertexto)
+
+Servidor Web: Programa que interpreta solicitudes
+HTTP y cualquier otro protocolo de trasferencia de
+datos (archivos) por web
+ss
+mkidir: make directory (crear directorio)
+$ mkdir dirName
+
+touch: crea un archivo en blanco
+$ touch fileName
+
+subl: comando para llamar a SublimeText
+
+Para revisar lor errores de carga de archivos en nignx
+cat /var/log/nginx/error.log
